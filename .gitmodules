@@ -10,3 +10,6 @@
 [submodule "FilteredMatrices.jl"]
 	path = FilteredMatrices.jl
 	url = https://github.com/pablosanjose/FilteredMatrices.jl
+[submodule "SpinSymmetry.jl"]
+	path = SpinSymmetry.jl
+	url = https://github.com/abraemer/SpinSymmetry.jl
