@@ -1,0 +1,12 @@
+[submodule "XXZPaper"]
+	path = XXZPaper
+	url = git@github.com:abraemer/XXZPaper.git
+[submodule "SimLib.jl"]
+	path = SimLib.jl
+	url = git@github.com:abraemer/SimLib.jl.git
+[submodule "XXZNumerics.jl"]
+	path = XXZNumerics.jl
+	url = git@github.com:abraemer/XXZNumerics.jl.git
+[submodule "FilteredMatrices.jl"]
+	path = FilteredMatrices.jl
+	url = https://github.com/pablosanjose/FilteredMatrices.jl
